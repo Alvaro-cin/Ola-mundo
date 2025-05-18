@@ -1,2 +1,2 @@
-# olamundo
- Primeiro Repositorio Versionado
+# Olá Mundo
+ Primeiro Repositorio Versionado, estou apredendo a lidar com git e github.
